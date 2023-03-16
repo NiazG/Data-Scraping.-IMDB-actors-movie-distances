@@ -22,6 +22,12 @@ The idea is simple. We introduce a special measure of distance between actors. H
 
 ### 2. Find the distance between actors
 
+![image](https://user-images.githubusercontent.com/41555285/225527595-82afc241-2fd1-4f8d-85c6-4205999c0fc9.png)
+
 ### 3. Collect data and save it to files. Every actor should have a separate text file with descriptions of all movies an actor played in.
 
 ### 4. For every actor we should provide a picture of a wordcloud, based on movie descriptions for that actor. 
+Example: Dwayne Johnson's wordcloud'
+![image](https://user-images.githubusercontent.com/41555285/225527692-98d239c3-68f8-4db1-badd-39b3c110189a.png)
+
+
