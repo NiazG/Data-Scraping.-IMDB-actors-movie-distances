@@ -28,6 +28,7 @@ The idea is simple. We introduce a special measure of distance between actors. H
 
 ### 4. For every actor we should provide a picture of a wordcloud, based on movie descriptions for that actor. 
 Example: Dwayne Johnson's wordcloud'
+
 ![image](https://user-images.githubusercontent.com/41555285/225527692-98d239c3-68f8-4db1-badd-39b3c110189a.png)
 
 
